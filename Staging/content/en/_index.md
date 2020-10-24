@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Steven's Coding World
     subtitle:
-      - The world’s fastest framework for building websites
+      - Hello Blog!
     titleColor: 
     titleShadow: true
     titleFontSize: 44
